@@ -85,4 +85,70 @@
     "snippet2": "0:43 - 0:50"
   }
 
+   {
+    "song1": "/Users/arseniichistiakov/Desktop/Python files/audio comparison/music dataset/processed/June 22nd.mp3",
+    "song2": "/Users/arseniichistiakov/Desktop/Python files/audio comparison/music dataset/processed/Pop Out (feat. Lil Tjay).mp3",
+    "snippet1": "0:52 - 1:04",
+    "snippet2": "0:43 - 0:50"
+  }
+
+  
+
+
+  {
+    "song1": "Sweet dreams (are made of this)",
+    "song2": "Seven nation army",
+    "snippet1": "0:00 - 0:21",
+    "snippet2": "0:00 - 0:15"
+  },
+  {
+    "song1": "Good times",
+    "song2": "Another one bites the dust",
+    "snippet1": "0:00 - 0:15",
+    "snippet2": "0:00 - 0:22"
+  },
+  {
+    "song1": "Under pressure",
+    "song2": "Ice ice baby",
+    "snippet1": "0:00 - 0:15",
+    "snippet2": "0:00 - 0:10"
+  },
+  {
+    "song1": "On the road again",
+    "song2": "Folsom prison blues",
+    "snippet1": "0:10 - 0:25",
+    "snippet2": "0:00 - 0:15"
+  },
+  {
+    "song1": "Eighties",
+    "song2": "Come as You Are",
+    "snippet1": "0:00 - 0:15",
+    "snippet2": "0:00 - 0:15"
+  },
+  {
+    "song1": "Brave",
+    "song2": "Roar",
+    "snippet1": "0:00 - 0:20",
+    "snippet2": "0:00 - 0:20"
+  },
+  {
+    "song1": "The air I breathe",
+    "song2": "Creep",
+    "snippet1": "0:10 - 0:30",
+    "snippet2": "1:55 - 2:15"
+  },
+  {
+    "song1": "My sweet lord",
+    "song2": "He's so fine",
+    "snippet1": "0:25 - 0:40",
+    "snippet2": "0:00 - 0:15"
+  },
+  {
+    "song1": "All you need is love",
+    "song2": "In the mood",
+    "snippet1": "3:20 - 3:35",
+    "snippet2": "0:00 - 0:15"
+  }
 ]
+
+
