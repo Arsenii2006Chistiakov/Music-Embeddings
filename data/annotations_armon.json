@@ -1,0 +1,86 @@
+[
+  {
+    "song1": "data/processed/GIRLS.mp3",
+    "song2": "data/processed/style.mp3",
+    "snippet1": "0:12 - 0:24",
+    "snippet2": "0:08 - 0:20"
+  },
+  {
+    "song1": "data/processed/[SPOTDOWNLOADER.COM] Dior (feat. Chrystal) (1).mp3",
+    "song2": "data/processed/[SPOTDOWNLOADER.COM] What Can I Do.mp3",
+    "snippet1": "0:54 - 1:14",
+    "snippet2": "1:16 - 1:26"
+  },
+  {
+    "song1": "data/processed/Lunar Pines.mp3",
+    "song2": "data/processed/Klippa.mp3",
+    "snippet1": "0:30 - 0:42",
+    "snippet2": "0:08 - 0:18"
+  },
+  {
+    "song1": "data/processed/Khabib.mp3",
+    "song2": "data/processed/Sex Money Drugs.mp3",
+    "snippet1": "0:52 - 1:06",
+    "snippet2": "0:31 - 0:44"
+  },
+  {
+    "song1": "data/processed/99 Luftballons.mp3",
+    "song2": "data/processed/99 Red Balloons.mp3",
+    "snippet1": "1:10 - 1:20",
+    "snippet2": "1:40 - 1:50"
+  },
+  {
+    "song1": "data/processed/99 (feat. Daecolm).mp3",
+    "song2": "data/processed/Pressure.mp3",
+    "snippet1": "1:09 - 1:19",
+    "snippet2": "0:58 - 1:08"
+  },
+  {
+    "song1": "data/processed/Don't Lie on My Head copy.mp3",
+    "song2": "data/processed/Champagne Shots.mp3",
+    "snippet1": "0:30 - 0:44",
+    "snippet2": "0:49 - 0:59"
+  },
+  {
+    "song1": "data/processed/2s n 3s - Solo.mp3",
+    "song2": "data/processed/Shanghigh Noon.mp3",
+    "snippet1": "0:22 - 0:32",
+    "snippet2": "0:56 - 1:06"
+  },
+  {
+    "song1": "data/processed/RAPSTAR.mp3",
+    "song2": "data/processed/Drip Too Hard (Lil Baby & Gunna).mp3",
+    "snippet1": "0:23 - 0:33",
+    "snippet2": "0:35 - 0:45"
+  },
+  {
+    "song1": "data/processed/Narcotic.mp3",
+    "song2": "data/processed/overseas.mp3",
+    "snippet1": "0:20 - 0:30",
+    "snippet2": "0:24 - 0:30"
+  },
+  {
+    "song1": "data/processed/Brilliant Mind II.mp3",
+    "song2": "data/processed/One By One.mp3",
+    "snippet1": "1:02 - 1:12",
+    "snippet2": "0:43 - 0:53"
+  },
+  {
+    "song1": "data/processed/Somedays.mp3",
+    "song2": "data/processed/The Days - NOTION Remix.mp3",
+    "snippet1": "1:10 - 1:20",
+    "snippet2": "1:10 - 1:20"
+  },
+  {
+    "song1": "data/processed/Got rich.mp3",
+    "song2": "data/processed/Rockstar Made.mp3",
+    "snippet1": "0:00 - 0:12",
+    "snippet2": "0:00 - 0:05"
+  },
+  {
+    "song1": "data/processed/June 22nd.mp3",
+    "song2": "data/processed/Pop Out (feat. Lil Tjay).mp3",
+    "snippet1": "0:52 - 1:04",
+    "snippet2": "0:43 - 0:50"
+  }
+]
