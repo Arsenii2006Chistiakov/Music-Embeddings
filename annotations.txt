@@ -83,6 +83,100 @@
     "song2": "data/processed/Pop Out (feat. Lil Tjay).mp3",
     "snippet1": "0:52 - 1:04",
     "snippet2": "0:43 - 0:50"
-  }
+  },
+  {
+    "song1": "data/processed/Got To Give It Up.mp3",
+    "song2": "data/processed/Blurred Lines.mp3",
+    "snippet1": "2:00 - 2:10",
+    "snippet2": "1:42 - 1:52"
+  },
+  {
+    "song1": "data/processed/Taurus.mp3",
+    "song2": "data/processed/Stairway to Heaven - Remaster.mp3",
+    "snippet1": "0:50 - 1:00",
+    "snippet2": "0:30 - 0:40"
+  },
+  {
+    "song1": "data/processed/My Sweet Lord (2009 Remaster).mp3",
+    "song2": "data/processed/He's So Fine - Remastered 2000.mp3",
+    "snippet1": "1:50 - 2:00",
+    "snippet2": "0:44 - 0:50"
+  },
+  {
+    "song1": "data/processed/Misery Business.mp3",
+    "song2": "data/processed/good 4 u.mp3",
+    "snippet1": "1:22 - 1:32",
+    "snippet2": "1:05 - 1:15"
+  },
+  {
+    "song1": "data/processed/Under Pressure.mp3",
+    "song2": "data/processed/Ice Ice Baby.mp3",
+    "snippet1": "3:30 - 3:40",
+    "snippet2": "0:07 - 0:17"
+  },
+  {
+    "song1": "data/processed/Express Yourself.mp3",
+    "song2": "data/processed/Locked out of Heaven.mp3",
+    "snippet1": "2:05 - 2:25",
+    "snippet2": "0:43 - 0:50"
+  },
+  {
+    "song1": "data/processed/No Diggity.mp3",
+    "song2": "data/processed/No Scrubs.mp3",
+    "snippet1": "1:10 - 1:20",
+    "snippet2": "0:40 - 0:50"
+  },
+  {
+    "song1": "data/processed/Without You.mp3",
+    "song2": "data/processed/Wildest Dreams.mp3",
+    "snippet1": "1:41 - 1:50",
+    "snippet2": "1:40 - 1:50"
+  },
+
+
+
+  {
+    "song1": "data/processed/Sweet dreams (are made of this).mp3",
+    "song2": "data/processed/Seven nation army.mp3",
+    "snippet1": "0:25: - 0:35",
+    "snippet2": "0:20 - 0:30"
+  },
+   {
+    "song1": "data/processed/Good times.mp3",
+    "song2": "data/processed/Another one bites the dust.mp3",
+    "snippet1": "1:20 - 1:30",
+    "snippet2": "0:20 - 0:30"
+  },
+   {
+    "song1": "data/processed/On the road again.mp3",
+    "song2": "data/processed/Folsom prison blues.mp3",
+    "snippet1": "0:30 - 0:40",
+    "snippet2": "0:30 - 0:40"
+  },
+   {
+    "song1": "data/processed/Eighties.mp3",
+    "song2": "data/processed/Come as You Are.mp3",
+    "snippet1": "1:20 - 1:30",
+    "snippet2": "0:30 - 0:40"
+  },
+
+  {
+    "song1": "data/processed/The air I breathe.mp3",
+    "song2": "data/processed/Creep.mp3",
+    "snippet1": "0:40 - 0:50",
+    "snippet2": "0:20 - 0:30"
+  },
+
+
+
+
+
+
+
+
+
 
 ]
+
+
+
