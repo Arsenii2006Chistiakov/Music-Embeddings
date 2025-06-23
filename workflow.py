@@ -2,7 +2,7 @@ from get_embeddings import create_mert_embedding, create_database
 from criteria import evaluate_embeddings
 from transformers import AutoModel, Wav2Vec2FeatureExtractor
 import torch
-
+import json
 def evaluate_mert_embeddings(annotations_path: str, k: int = 3):
     """
     Complete workflow to evaluate MERT embeddings on the music dataset:
@@ -29,6 +29,7 @@ def evaluate_mert_embeddings(annotations_path: str, k: int = 3):
     return average_score, detailed_results
 
 if __name__ == "__main__":
+    database=json.load(open("/Users/arseniichistiakov/Desktop/Python files/audio comparison/embeddings.json"))
     annotations_path = "/Users/arseniichistiakov/Desktop/Python files/audio comparison/annotations.txt"
     k = 3  # Number of top matches to consider
     
