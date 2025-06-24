@@ -1,6 +1,7 @@
 import os
 import json
 import numpy as np
+import essentia
 import essentia.standard as es
 from essentia import Pool
 from collections import defaultdict
